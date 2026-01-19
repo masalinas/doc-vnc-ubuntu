@@ -1,6 +1,7 @@
 # Description
 Install VNC server called x11vnc in Ubuntu. Tested in Ubuntu 20.04 and Ubuntu 24.04
-## Install x11vnc
+
+## Install VNC Server
 ```
 $ sudo apt install x11vnc
 ```
