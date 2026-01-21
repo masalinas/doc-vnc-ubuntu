@@ -7,7 +7,7 @@ $ sudo apt install x11vnc
 ```
 
 ## Configure vnc authentication access
-Execute this command to set default vnc password for simur user
+Execute this command to set default vnc password for simur account
 ```
 $ x11vnc -storepasswd
 ```
